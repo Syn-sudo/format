@@ -15,7 +15,8 @@ Bu .bat dosyası ile:
 - Sadece Windows için geçerlidir.
 - Python yüklü değilse önce manuel kurmanız gerekebilir.
 
-Windows Automation Tool
+
+##Windows Automation Tool
 This .bat file allows you to:
 
 Check if Python and pip are installed, and install required libraries
